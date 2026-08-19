@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Tp1\ej6\bin\Debug\net8.0\ej6.exe
+C:\Users\pc\source\repos\Tp1\ej6\bin\Debug\net8.0\ej6.deps.json
+C:\Users\pc\source\repos\Tp1\ej6\bin\Debug\net8.0\ej6.runtimeconfig.json
+C:\Users\pc\source\repos\Tp1\ej6\bin\Debug\net8.0\ej6.dll
+C:\Users\pc\source\repos\Tp1\ej6\bin\Debug\net8.0\ej6.pdb
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.AssemblyInfo.cs
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.dll
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\refint\ej6.dll
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.pdb
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ej6.genruntimeconfig.cache
+C:\Users\pc\source\repos\Tp1\ej6\obj\Debug\net8.0\ref\ej6.dll
